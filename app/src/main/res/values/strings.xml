@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image To Text</string>
+    <string name="recent_news">Image To Text (OCR)</string>
+    <string name="in_news">
+
+
+</string>
+    <string name="publish_date">2019-02-20 12:00:00</string>
+
+</resources>
